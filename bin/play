@@ -7,6 +7,6 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 puts "Welcome to Tic Tac Toe!"
 display_board(board)
 
-def play(board)
+play(board)
 
-end # Make sure to execute #play below
+  # Make sure to execute #play below
